@@ -7,7 +7,7 @@ module.exports = {
         description: "",
         version: "",
         dir: "",
-        outDir: "",
+        outDir: "../build/cn",
         staticDir: ""
     }, 
     theme: {
